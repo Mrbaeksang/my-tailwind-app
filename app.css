@@ -1,0 +1,7 @@
+@config "./tailwind.config.js"; /* JS 설정을 참조하겠다는 명시적 선언 */
+@import "tailwindcss";
+
+/* Optional: 변수 선언 */
+@theme {
+  --color-brand-primary: #1e40af;
+}
